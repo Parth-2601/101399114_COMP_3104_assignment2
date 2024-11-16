@@ -1,1 +1,1 @@
-Parthkumar Pstel\n101399114\nGit repository created from AWS EC2 instance
+Parthkumar Patel\n101399114\nGit repository created from AWS EC2 instance
